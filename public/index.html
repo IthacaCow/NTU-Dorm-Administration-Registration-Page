@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-tw" > 
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>台灣大學宿舍網路</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- CSS -->
+
+<!--  jquery dataTables -->
+
+  <link rel="stylesheet" href="lib/datatables/media/css/jquery.dataTables.css">
+  <link rel="stylesheet" href="lib/material-design/material.min.css">
+  <link rel="stylesheet" type="text/css" href="bower_components/angular-ui-grid/ui-grid.min.css">
+    
+  <link rel="stylesheet" href="css/app.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+  
+  <!-- Remove The HashTag in URI of Angular.js  -->
+  <!-- <base href="/"> -->
+</head>
+
+
+
+
+<body ng-app="dorm">
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div ng-include="'partials/layout/header.html'"></div>
+
+    <main class="mdl-layout__content">
+      <div ng-view></div>
+    </main>
+
+    <div ng-include="'partials/layout/footer.html'"></div>
+  </div>
+
+  
+ 
+</body>
+
+
+
+<!--  Javascript  -->
+<script src="lib/material-design/material.min.js"></script>
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-route/angular-route.min.js"></script>
+<script src="app.js"></script>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="lib/datatables/media/js/jquery.dataTables.min.js"></script>
+<script src="bower_components/angular-ui-grid/ui-grid.min.js"></script>
+<script src="bower_components/angular-datatables/dist/angular-datatables.min.js"></script>
+
+</html>

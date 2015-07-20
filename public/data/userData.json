@@ -1,0 +1,112 @@
+[
+    {
+        "identity": "Student",
+        "name": "陳耘志",
+        "account": "b03902074",
+        "email": "b03902074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "229B",
+        "MAC": "E2-2C-3A-E0-02-39",
+        "phone": "0977258462",
+        "IP": "140.112.239.12"
+    },
+    {
+        "identity": "Student",
+        "name": "侯中又",
+        "account": "b03901074",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "220A",
+        "MAC": "E2-2C-3A-E0-12-39",
+        "phone": "0917258162",
+        "IP": "140.112.212.241"
+    },
+    {
+        "identity": "Student",
+        "name": "郭子儀",
+        "account": "b03901074",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "201B",
+        "MAC": "E2-2C-3B-E0-02-39",
+        "phone": "0973258462",
+        "IP": "140.112.239.248"
+    },
+    {
+        "identity": "Student",
+        "name": "簡歷風",
+        "account": "b03902077",
+        "email": "b03902077@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "220B",
+        "MAC": "E2-2C-3A-E0-F2-39",
+        "phone": "0977258411",
+        "IP": "140.112.239.241"
+    },
+    {
+        "identity": "Student",
+        "name": "王彩畫",
+        "account": "b03801000",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "224B",
+        "MAC": "E2-2C-3A-FF-12-39",
+        "phone": "0917258162",
+        "IP": "140.112.212.21"
+    },
+    {
+        "identity": "Student",
+        "name": "馬英酒",
+        "account": "b03901100",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "221B",
+        "MAC": "E2-2C-3A-EF-12-39",
+        "phone": "0917253162",
+        "IP": "140.112.212.12"
+    },
+    {
+        "identity": "Student",
+        "name": "黃見民",
+        "account": "b03903074",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "219B",
+        "MAC": "E2-2C-3D-E0-12-39",
+        "phone": "0917458162",
+        "IP": "140.112.212.31"
+    },
+    {
+        "identity": "Student",
+        "name": "侯友誼",
+        "account": "b03401071",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "129B",
+        "MAC": "E2-2C-3B-E0-12-39",
+        "phone": "0917258162",
+        "IP": "140.112.239.41"
+    },
+    {
+        "identity": "Student",
+        "name": "張中眸",
+        "account": "b03301074",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "429B",
+        "MAC": "E3-2C-3A-E0-12-39",
+        "phone": "0917257762",
+        "IP": "140.112.212.241"
+    },
+    {
+        "identity": "Student",
+        "name": "王永謦",
+        "account": "b02901074",
+        "email": "b03901074@ntu.edu.tw",
+        "dorm": "男一舍",
+        "room": "329B",
+        "MAC": "A2-2C-3A-E0-12-39",
+        "phone": "0917258162",
+        "IP": "140.112.239.13"
+    },
+]
