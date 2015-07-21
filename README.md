@@ -61,6 +61,10 @@ In the case of first-man dorm, users request a repair on a Google Spreadsheet in
 people are simply not a member of that group, still more people never know they can make such request on that group.  We can integrate a repair request page into our website so the user knows where to make such request.  In
 addition, they can make a request even without external network access.
 
+### Personalized MRTG statistics
+
+A user would definitely be glad to know his own network flow statistics, just like Google's custom activity report.  I think this is very doable, and will be a much desired feature.
+
 ## Design
 
 ### Graphics
