@@ -21,6 +21,11 @@ Some students complain that the registration page makes it difficult for them to
 Being an adminstrator myself, I find it hard to scroll through the mal-designed IP blacklist.  In addition, the
 table simply contains too much unnecessary information.  The naming of the navigation bar is **unsemantic** and **redundant**, making it hard to see which functionality it points to.  The network flow rank is **full of number**, which hardly provides any intuition (the correct way is to visualize it in a graph).  The block list provides little information on the reason why an IP shall be blocked.
 
+### Not responsive
+
+The current webpage is a disaster on mobile device!!  As network administrator, I often carry smart phone to look up IPs on this site when I'm out repairing people's network.  This is simply a nightmare.
+
+
 ### Bad tutorial
 
 There is actually a tutorial on how to fix network problems on [dorm.ntu.edu.tw](dorm.ntu.edu.tw), but **few people know**.  Even if they're led to [here](http://dorminfo.cc.ntu.edu.tw/), the tutorial does not contain the necessary information to fix their problems.  They're unintuitive and outdated.  We shall make it easier to find tutorials  and populate the tutorial with more scenario ( it can be contributed by network admins from all over the campus ), in a way that **even my grandma** can fix her network problems in our guidance.
@@ -61,7 +66,7 @@ addition, they can make a request even without external network access.
 ### Graphics
 
 I am not a graphic designer.  Yet being a programmer, I'm good at adopting others's work and customizing it into our liking.
-I will base on the UI framework [Material Design Lite](http://www.getmdl.io/) recently released by Google and tweak it to such a manner that you and I will satisfy.
+I will base on the UI framework [Material Design Lite](http://www.getmdl.io/) recently released by Google and tweak it to such a manner that you and I will satisfy.  **This is responsive.** ( so that you can easily read the content on mobile device. )
 
 ### UI
 
