@@ -89,11 +89,11 @@ about the lives of other NTU students.
 #### Frontend
 
 - [Angular.js](https://angularjs.org/)
-- [jQuery](https://jquery.com/)
 - [Angular UI Grid](ui-grid.info/)
+- [Angular OAuth](https://github.com/seegno/angular-oauth2)
 - [Material Design Lite](http://getmdl.io/)
 - [Bootstrap](getbootstrap.com/)
-- [Angular OAuth](https://github.com/seegno/angular-oauth2)
+- [d3.js](d3js.org)
 - [LESS](lesscss.org)
 
 #### Backend
