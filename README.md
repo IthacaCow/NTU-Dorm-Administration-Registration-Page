@@ -91,6 +91,7 @@ about the lives of other NTU students.
 - [Angular.js](https://angularjs.org/)
 - [Angular UI Grid](ui-grid.info/)
 - [Angular OAuth](https://github.com/seegno/angular-oauth2)
+- [jQuery](https://jquery.com/)
 - [Material Design Lite](http://getmdl.io/)
 - [Bootstrap](getbootstrap.com/)
 - [d3.js](d3js.org)
